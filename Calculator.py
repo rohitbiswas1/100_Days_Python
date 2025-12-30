@@ -1,5 +1,5 @@
 #This is for Calculation
-a = 74
+a = 76
 b = 36
 x = a+b
 print("Addition of",a,"and",b,"is",x)
