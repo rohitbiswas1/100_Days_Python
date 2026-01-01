@@ -1,6 +1,6 @@
 #This is for Calculation
 a = 76
-b = 36
+b = 39
 x = a+b
 print("Addition of",a,"and",b,"is",x)
 y = a-b
